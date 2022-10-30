@@ -1,0 +1,85 @@
+==================================
+Cache type:    l1 Cache
+==================================
+Cache Hits:    1310784
+Cache Misses:  189216
+
+Cache Hit Rate in Percentage 87.4
+Cache Miss Rate in Percentage  12.6
+
+==================================
+
+==================================
+Cache type:    Direct-Mapped Cache
+==================================
+Cache Hits:    1310949
+Cache Misses:  189051
+
+Cache Hit Rate in Percentage 87.4
+Cache Miss Rate in Percentage  12.6
+
+
+==================================
+Cache type:    l1 Cache
+==================================
+Cache Hits:    1040487
+Cache Misses:  2193568
+
+Cache Hit Rate in Percentage 32.2
+Cache Miss Rate in Percentage  67.8
+
+==================================
+
+==================================
+Cache type:    Direct-Mapped Cache
+==================================
+Cache Hits:    1041018
+Cache Misses:  2193037
+
+Cache Hit Rate in Percentage 32.2
+Cache Miss Rate in Percentage  67.8
+
+
+
+==================================
+Cache type:    l1 Cache
+==================================
+Cache Hits:    0
+Cache Misses:  10
+
+Cache Hit Rate in Percentage 0.0
+Cache Miss Rate in Percentage  100.0
+
+==================================
+
+==================================
+Cache type:    Direct-Mapped Cache
+==================================
+Cache Hits:    0
+Cache Misses:  10
+
+Cache Hit Rate in Percentage 0.0
+Cache Miss Rate in Percentage  100.0
+
+
+
+==================================
+Cache type:    l1 Cache
+==================================
+Cache Hits:    4
+Cache Misses:  16
+
+Cache Hit Rate in Percentage 20.0
+Cache Miss Rate in Percentage  80.0
+
+==================================
+
+==================================
+Cache type:    Direct-Mapped Cache
+==================================
+Cache Hits:    4
+Cache Misses:  16
+
+Cache Hit Rate in Percentage 20.0
+Cache Miss Rate in Percentage  80.0
+

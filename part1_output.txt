@@ -1,0 +1,40 @@
+##STREAM##
+==================================
+Cache type:    Direct-Mapped Cache
+==================================
+Cache Hits:    1059918
+Cache Misses:  2174137
+
+Cache Hit Rate in Percentage 32.8
+Cache Miss Rate in Percentage  67.2
+
+##STREAM_10##
+==================================
+Cache type:    Direct-Mapped Cache
+==================================
+Cache Hits:    0
+Cache Misses:  10
+
+Cache Hit Rate in Percentage 0.0
+Cache Miss Rate in Percentage  100.0
+
+##STREAM_20##
+==================================
+Cache type:    Direct-Mapped Cache
+==================================
+Cache Hits:    4
+Cache Misses:  16
+
+Cache Hit Rate in Percentage 20.0
+Cache Miss Rate in Percentage  80.0
+
+##HPCG##
+==================================
+Cache type:    Direct-Mapped Cache
+==================================
+Cache Hits:    1301327
+Cache Misses:  198673
+
+Cache Hit Rate in Percentage 86.8
+Cache Miss Rate in Percentage  13.2
+

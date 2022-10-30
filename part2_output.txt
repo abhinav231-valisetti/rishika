@@ -1,0 +1,267 @@
+#HPCG
+
+==================================
+Cache type: Associative Cache
+==================================
+Cache Hits:    1290298
+Cache Misses:  209702
+
+-----------------------------------
+Cache Hit Rate in Percentage:    86.02
+Cache Miss Rate in Percentage:  13.98
+
+==================================
+Cache type: Associative Cache
+==================================
+Cache Hits:    1303074
+Cache Misses:  196926
+
+-----------------------------------
+Cache Hit Rate in Percentage:    86.87
+Cache Miss Rate in Percentage:  13.13
+
+==================================
+Cache type: Associative Cache
+==================================
+Cache Hits:    1369266
+Cache Misses:  130734
+
+-----------------------------------
+Cache Hit Rate in Percentage:    91.28
+Cache Miss Rate in Percentage:  8.72
+
+
+==================================
+Cache type: Associative Cache
+==================================
+Cache Hits:    1289701
+Cache Misses:  210299
+
+-----------------------------------
+Cache Hit Rate in Percentage:    85.98
+Cache Miss Rate in Percentage:  14.02
+
+
+==================================
+Cache type: Associative Cache
+==================================
+Cache Hits:    1300263
+Cache Misses:  199737
+
+-----------------------------------
+Cache Hit Rate in Percentage:    86.68
+Cache Miss Rate in Percentage:  13.32
+
+
+==================================
+Cache type: Associative Cache
+==================================
+Cache Hits:    1324059
+Cache Misses:  175941
+
+-----------------------------------
+Cache Hit Rate in Percentage:    88.27
+Cache Miss Rate in Percentage:  11.73
+
+
+==================================
+Cache type: Associative Cache
+==================================
+Cache Hits:    1279056
+Cache Misses:  220944
+
+-----------------------------------
+Cache Hit Rate in Percentage:    85.27
+Cache Miss Rate in Percentage:  14.73
+
+
+==================================
+Cache type: Associative Cache
+==================================
+Cache Hits:    1288392
+Cache Misses:  211608
+
+-----------------------------------
+Cache Hit Rate in Percentage:    85.89
+Cache Miss Rate in Percentage:  14.11
+
+
+==================================
+Cache type: Associative Cache
+==================================
+Cache Hits:    1318876
+Cache Misses:  181124
+
+-----------------------------------
+Cache Hit Rate in Percentage:    87.93
+Cache Miss Rate in Percentage:  12.07
+
+
+==================================
+Cache type: Associative Cache
+==================================
+Cache Hits:    1253555
+Cache Misses:  246445
+
+-----------------------------------
+Cache Hit Rate in Percentage:    83.57
+Cache Miss Rate in Percentage:  16.43
+
+
+==================================
+Cache type: Associative Cache
+==================================
+Cache Hits:    1263219
+Cache Misses:  236781
+
+-----------------------------------
+Cache Hit Rate in Percentage:    84.21
+Cache Miss Rate in Percentage:  15.79
+
+
+==================================
+Cache type: Associative Cache
+==================================
+Cache Hits:    1316602
+Cache Misses:  183398
+
+-----------------------------------
+Cache Hit Rate in Percentage:    87.77
+Cache Miss Rate in Percentage:  12.23
+
+
+==================================
+Cache type: Associative Cache
+==================================
+Cache Hits:    1322564
+Cache Misses:  177436
+
+-----------------------------------
+Cache Hit Rate in Percentage:    88.17
+Cache Miss Rate in Percentage:  11.83
+
+
+==================================
+Cache type: Associative Cache
+==================================
+Cache Hits:    1326350
+Cache Misses:  173650
+
+-----------------------------------
+Cache Hit Rate in Percentage:    88.42
+Cache Miss Rate in Percentage:  11.58
+
+
+==================================
+Cache type: Associative Cache
+==================================
+Cache Hits:    1327463
+Cache Misses:  172537
+
+-----------------------------------
+Cache Hit Rate in Percentage:    88.50
+Cache Miss Rate in Percentage:  11.50
+
+
+==================================
+Cache type: Associative Cache
+==================================
+Cache Hits:    1285449
+Cache Misses:  214551
+
+-----------------------------------
+Cache Hit Rate in Percentage:    85.70
+Cache Miss Rate in Percentage:  14.30
+
+
+==================================
+Cache type: Associative Cache
+==================================
+Cache Hits:    1305573
+Cache Misses:  194427
+
+-----------------------------------
+Cache Hit Rate in Percentage:    87.04
+Cache Miss Rate in Percentage:  12.96
+
+
+==================================
+Cache type: Associative Cache
+==================================
+Cache Hits:    1325009
+Cache Misses:  174991
+
+-----------------------------------
+Cache Hit Rate in Percentage:    88.33
+Cache Miss Rate in Percentage:  11.67
+
+
+
+==================================
+Cache type: Associative Cache
+==================================
+Cache Hits:    1243984
+Cache Misses:  256016
+
+-----------------------------------
+Cache Hit Rate in Percentage:    82.93
+Cache Miss Rate in Percentage:  17.07
+
+
+==================================
+Cache type: Associative Cache
+==================================
+Cache Hits:    1290762
+Cache Misses:  209238
+
+-----------------------------------
+Cache Hit Rate in Percentage:    86.05
+Cache Miss Rate in Percentage:  13.95
+
+
+
+==================================
+Cache type: Associative Cache
+==================================
+Cache Hits:    1323409
+Cache Misses:  176591
+
+-----------------------------------
+Cache Hit Rate in Percentage:    88.23
+Cache Miss Rate in Percentage:  11.77
+
+
+==================================
+Cache type: Associative Cache
+==================================
+Cache Hits:    1206682
+Cache Misses:  293318
+
+-----------------------------------
+Cache Hit Rate in Percentage:    80.45
+Cache Miss Rate in Percentage:  19.55
+
+
+==================================
+Cache type: Associative Cache
+==================================
+Cache Hits:    1294085
+Cache Misses:  205915
+
+-----------------------------------
+Cache Hit Rate in Percentage:    86.27
+Cache Miss Rate in Percentage:  13.73
+
+
+==================================
+Cache type: Associative Cache
+==================================
+Cache Hits:    1331615
+Cache Misses:  168385
+
+-----------------------------------
+Cache Hit Rate in Percentage:    88.77
+Cache Miss Rate in Percentage:  11.23
+
+
+
